@@ -17,16 +17,16 @@ class Bank {
 	conditions from line number 105 by following the procedures from line 96.*/
 	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
-		name[99]="Thippani_Vinay";
-		mbl[99]=6303976298l;
+		name[99]="Thippani";
+		mbl[99]=630;
 		aca[99]=765679;
 		Vinay.balance=100000;
-		password[99]="vinay@2001";
-		name[98]="Biyyana_Mamatha";
-		mbl[98]=9381386595l;
+		password[99]="vinny@2";
+		name[98]="Biyyana";
+		mbl[98]=9381;
 		aca[98]=666052;
 		Mamatha.balance=200000;
-		password[98]="mamatha@2002";
+		password[98]="mam@2";
 		System.out.println("Welcome to the world number one recognized bank");
 		System.out.println("Bank Name : SBI Bank");
 		System.out.println("Bank Branch : KPHB,Hyderabad");
